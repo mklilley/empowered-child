@@ -16,18 +16,16 @@ jobs:
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
-        with: 
+        with:
           hugo-version: 'latest'
 
       - name: Build
-        run: |
-          cd website-src
-          hugo
+        run: hugo
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
+          publish_dir: ./public
           publish_branch: gh-pages
           cname: empoweredchild.co.uk
