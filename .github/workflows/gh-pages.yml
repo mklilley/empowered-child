@@ -20,7 +20,9 @@ jobs:
           hugo-version: 'latest'
 
       - name: Build
-        run: hugo
+        run: |
+          cd website-src
+          hugo
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
