@@ -1,5 +1,5 @@
 ---
-title: Second Blog Post Ever
+title: What I learnt from my 30s
 date: 2020-03-30T04:46:10-04:00
 description: This is meta description
 type: post
