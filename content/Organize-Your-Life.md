@@ -9,7 +9,7 @@ categories:
 tags:
 - Photos
 - Finance
-draft: true
+draft: false
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
