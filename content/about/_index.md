@@ -5,19 +5,10 @@ description: "This is meta description"
 image: "images/author.jpg"
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+Here's me more than a decade ago. Before I was a mum of two. Before I had assmilated the usual suspects from
+the patenting section of my bookshop and found something wanting. Before I moved my bed to the floor, and 
+put my one year old's next to it. Before I formed an amazing friendship with an amazing woman, who then introduced  
+me to some more amazing women who had come before her. Before I home-schooled. I then found what life with children 
+was about.
 
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+...
