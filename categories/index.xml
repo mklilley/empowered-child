@@ -6,15 +6,20 @@
     <description>Recent content in Categories on Empowered Child</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Apr 2020 04:46:10 -0400</lastBuildDate>
-    
-	<atom:link href="https://empoweredchild.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 13 Apr 2020 04:46:10 -0400</lastBuildDate><atom:link href="https://empoweredchild.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>home projects</title>
+      <link>https://empoweredchild.co.uk/categories/home-projects/</link>
+      <pubDate>Mon, 13 Apr 2020 04:46:10 -0400</pubDate>
+      
+      <guid>https://empoweredchild.co.uk/categories/home-projects/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>life moments</title>
       <link>https://empoweredchild.co.uk/categories/life-moments/</link>
-      <pubDate>Mon, 13 Apr 2020 04:46:10 -0400</pubDate>
+      <pubDate>Mon, 30 Mar 2020 04:46:10 -0400</pubDate>
       
       <guid>https://empoweredchild.co.uk/categories/life-moments/</guid>
       <description></description>
