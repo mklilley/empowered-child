@@ -1,13 +1,13 @@
 ---
-title: My forties and onward
+title: Chinese New Year 2020
 date: 2020-04-13T04:46:10-04:00
 description: This is meta description
 type: post
 image: "/images/posts/IMG_0027.JPG"
 categories:
-- life moments
+- home projects
 tags:
-- family
+- home educating
 
 ---
-**So now I'm forty...what next?**
+**Happy New Year!**
