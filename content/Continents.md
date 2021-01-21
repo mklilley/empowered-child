@@ -15,13 +15,11 @@ past three years matching and naming the felt continents, placing our toy animal
 singing a Continent Song; I would put a link but I haven't been able to find the song online, it 
 was one that was once sang to my eldest daughter and it stuck.
 
-You can use cards instead, if you don't have toy animals and as you can see mine like to use both.
+You can use [cards](https://www.imagineourlife.com/2014/10/08/diy-montessori-3-part-cards/) instead, if you don't have toy animals and as you can see mine like to use both.
 
 
-> This project was inspired by Stephaine at ImagineOurLife.com
+> This project was inspired by Stephaine at [ImagineOurLife.com](https://www.imagineourlife.com/2013/07/08/montessori-continents-map-quietbook-with-3-part-cards/)
 She has some amazing projects. I had never crafted or sewed before and I enjoyed making this map.
-https://www.imagineourlife.com/2013/07/08/montessori-continents-map-quietbook-with-3-part-cards/
-https://www.imagineourlife.com/2014/10/08/diy-montessori-3-part-cards/
 
 
 ![](../images/posts/Animals_on_felt_continents.JPG)
