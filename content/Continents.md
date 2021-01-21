@@ -3,7 +3,7 @@ title: Continents
 date: 2020-03-30T04:46:10-04:00
 description: This is meta description
 type: post
-image: "/images/posts/post-9.jpg"
+image: "/images/posts/Felt_Continents.JPG"
 categories:
 - home projects
 tags:
