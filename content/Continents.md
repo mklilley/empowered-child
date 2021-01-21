@@ -24,7 +24,7 @@ https://www.imagineourlife.com/2013/07/08/montessori-continents-map-quietbook-wi
 https://www.imagineourlife.com/2014/10/08/diy-montessori-3-part-cards/
 
 
-![](../images/post/Animals_on_felt_continents.JPG)
+![](../images/postAnimals_on_felt_continents.JPG)
 
 I have been collecting Schleich animals https://www.schleich-s.com/en/GB/wild-life.html over the years
 but if you wanted to start your collection off quickly, then Toobs are great place to start. The Wild 
