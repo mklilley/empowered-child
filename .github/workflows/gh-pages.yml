@@ -24,11 +24,11 @@ jobs:
 
       - name: Image Resizer Inplace
         uses: xprilion/img-resizer-inplace@v1
-          with:
-            # Folder in which images are stored
-            target: "public/images/posts"
-            # New resolution for images
-            dimensions: "1000>"
+        with:
+          # Folder in which images are stored
+          target: "public/images/posts"
+          # New resolution for images
+          dimensions: "1000>"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
