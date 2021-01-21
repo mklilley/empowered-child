@@ -24,7 +24,7 @@ She has some amazing projects. I had never crafted or sewed before and I enjoyed
 
 ![](../images/posts/Animals_on_felt_continents.JPG)
 
-I have been collecting Schleich animals https://www.schleich-s.com/en/GB/wild-life.html over the years
+I have been collecting [Schleich](https://www.schleich-s.com/en/GB/wild-life.html) animals over the years
 but if you wanted to start your collection off quickly, then Toobs are great place to start. The Wild 
-TOOB, is only missing a penguin to be complete.
-https://www.educationaltoys.co.uk/products/wild-animal?_pos=2&_sid=e74ce30a1&_ss=r
+[TOOB](https://www.educationaltoys.co.uk/products/wild-animal?_pos=2&_sid=e74ce30a1&_ss=r), is only missing a penguin to be complete.
+
