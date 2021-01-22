@@ -17,5 +17,5 @@ The children happily made [paper lanterns](https://www.firstpalette.com/craft/pa
 
 My eldest attended a library session and bought back a [New Year Dragon](https://www.scholastic.com/teachers/articles/teaching-content/chinese-new-year-dragon-craft-project/).
 
-I made a more complicated [latern](https://www.youtube.com/watch?v=c32wLubQRw8). It looks lovely but can be a little more time consuming.
+I made a more complicated [latern](https://www.youtube.com/watch?v=c32wLubQRw8). It looks lovely and I had fun but it was more time consuming.
 
