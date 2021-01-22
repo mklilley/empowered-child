@@ -15,7 +15,7 @@ tags:
 
 The children happily made [paper lanterns](https://www.firstpalette.com/craft/paper-lantern.html) for days.
 
-![](../images/posts/)
+![](../images/posts/many_lanterns.JPG)
 
 My eldest attended a library session and bought back a [New Year Dragon](https://www.scholastic.com/teachers/articles/teaching-content/chinese-new-year-dragon-craft-project/).
 
@@ -25,7 +25,9 @@ I made a more complicated [lantern](https://www.youtube.com/watch?v=c32wLubQRw8)
 
 ![](../images/posts/Chinese_Laterns.JPG)
 
-Books ['The Great Race'](https://www.waterstones.com/book/the-great-race/christopher-corr/9781786037312) and ['Panda'](https://www.worldofbooks.com/en-gb/books/dk/panda/9781405328678?gclid=EAIaIQobChMIgviDpfev7gIVu2DmCh3C6Q4REAQYBiABEgKZOfD_BwE).
+
+>Books ['The Great Race'](https://www.waterstones.com/book/the-great-race/christopher-corr/9781786037312) and ['Panda'](https://www.worldofbooks.com/en-gb/books/dk/panda/9781405328678?gclid=EAIaIQobChMIgviDpfev7gIVu2DmCh3C6Q4REAQYBiABEgKZOfD_BwE).
+
 
 ![](../images/posts/Book_and_year_of_the_pig (1).JPG)
 
