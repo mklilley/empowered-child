@@ -15,7 +15,7 @@ tags:
 
 The children happily made [paper lanterns](https://www.firstpalette.com/craft/paper-lantern.html) for days.
 
-![](../images/posts/Animals_on_felt_continents.JPG)
+![](../images/posts/Chinese_Laterns.JPG)
 
 My eldest attended a library session and bought back a [New Year Dragon](https://www.scholastic.com/teachers/articles/teaching-content/chinese-new-year-dragon-craft-project/).
 
