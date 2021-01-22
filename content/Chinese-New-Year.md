@@ -29,7 +29,7 @@ I made a more complicated [lantern](https://www.youtube.com/watch?v=c32wLubQRw8)
 >Books ['The Great Race'](https://www.waterstones.com/book/the-great-race/christopher-corr/9781786037312) and ['Panda'](https://www.worldofbooks.com/en-gb/books/dk/panda/9781405328678?gclid=EAIaIQobChMIgviDpfev7gIVu2DmCh3C6Q4REAQYBiABEgKZOfD_BwE).
 
 
-![](../images/posts/Book_and_year_of_the_pig (1).JPG)
+![](../images/posts/Book_and_year_of_the_pig.JPG)
 
 The [pigs](https://www.wonderlandmodels.com/products/schleich-pig/?exchange_rate=1) are from my [Schleich](https://www.schleich-s.com/en/GB/farm-world.html) collection.
 
