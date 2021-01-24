@@ -870,3 +870,9 @@ blockquote {
 
 /*# sourceMappingURL=maps/style.css.map */
 
+@media (min-width: 767px) {
+  .half-centre {
+    width: 50%;
+    margin: auto;
+  }
+}
