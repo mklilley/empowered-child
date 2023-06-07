@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search Result on Empowered Child</title>
-    <link>https://empoweredchild.co.uk/search/</link>
+    <link>https://mklilley.github.io/empowered-child/search/</link>
     <description>Recent content in Search Result on Empowered Child</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://empoweredchild.co.uk/search/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://mklilley.github.io/empowered-child/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

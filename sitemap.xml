@@ -1,80 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://empoweredchild.co.uk/categories/</loc>
+    <loc>https://mklilley.github.io/empowered-child/categories/</loc>
     <lastmod>2020-04-13T04:46:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://empoweredchild.co.uk/chinese-new-year/</loc>
+  </url><url>
+    <loc>https://mklilley.github.io/empowered-child/chinese-new-year/</loc>
     <lastmod>2020-04-13T04:46:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://empoweredchild.co.uk/</loc>
+  </url><url>
+    <loc>https://mklilley.github.io/empowered-child/</loc>
     <lastmod>2020-04-13T04:46:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://empoweredchild.co.uk/tags/home-educating/</loc>
+  </url><url>
+    <loc>https://mklilley.github.io/empowered-child/tags/home-educating/</loc>
     <lastmod>2020-04-13T04:46:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://empoweredchild.co.uk/categories/home-projects/</loc>
+  </url><url>
+    <loc>https://mklilley.github.io/empowered-child/categories/home-projects/</loc>
     <lastmod>2020-04-13T04:46:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://empoweredchild.co.uk/tags/</loc>
+  </url><url>
+    <loc>https://mklilley.github.io/empowered-child/tags/</loc>
     <lastmod>2020-04-13T04:46:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://empoweredchild.co.uk/continents/</loc>
+  </url><url>
+    <loc>https://mklilley.github.io/empowered-child/continents/</loc>
     <lastmod>2020-03-30T04:46:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://empoweredchild.co.uk/tags/family/</loc>
+  </url><url>
+    <loc>https://mklilley.github.io/empowered-child/tags/family/</loc>
     <lastmod>2020-03-30T04:46:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://empoweredchild.co.uk/categories/nature/</loc>
+  </url><url>
+    <loc>https://mklilley.github.io/empowered-child/categories/nature/</loc>
     <lastmod>2020-03-30T04:46:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://empoweredchild.co.uk/tags/outside/</loc>
+  </url><url>
+    <loc>https://mklilley.github.io/empowered-child/tags/outside/</loc>
     <lastmod>2020-03-30T04:46:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://empoweredchild.co.uk/tags/trees/</loc>
+  </url><url>
+    <loc>https://mklilley.github.io/empowered-child/tags/trees/</loc>
     <lastmod>2020-03-30T04:46:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://empoweredchild.co.uk/we-love-trees/</loc>
+  </url><url>
+    <loc>https://mklilley.github.io/empowered-child/we-love-trees/</loc>
     <lastmod>2020-03-30T04:46:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://empoweredchild.co.uk/about/</loc>
+  </url><url>
+    <loc>https://mklilley.github.io/empowered-child/about/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>https://mklilley.github.io/empowered-child/contact/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url><url>
+    <loc>https://mklilley.github.io/empowered-child/search/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
-  
-  <url>
-    <loc>https://empoweredchild.co.uk/contact/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://empoweredchild.co.uk/search/</loc>
-    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
-  </url>
-  
 </urlset>
